@@ -1,0 +1,75 @@
+#lang racket                   ;;
+(provide (all-defined-out))    ;;
+;; DO NOT EDIT ABOVE THIS LINE ;;
+
+;;;;;;;;;;;;;;;;
+;; Question 2 ;;
+;;;;;;;;;;;;;;;;
+
+; Signature:
+; Type:
+; Purpose:
+; Pre-conditions:
+; Tests:
+(define heads-rec
+  (lambda (lst)
+    'not-implemented
+    ))
+
+; Signature:
+; Type:
+; Purpose:
+; Pre-conditions:
+; Tests:
+(define heads-iter
+  (lambda (lst)
+    'not-implemented
+    ))
+
+;;;;;;;;;;;;;;;;
+;; Question 3 ;;
+;;;;;;;;;;;;;;;;
+
+; Signature:
+; Type:
+; Purpose:
+; Pre-conditions:
+; Tests:
+(define compose
+  (lambda (fun-list x)
+    'not-implemented
+    ))
+
+;;;;;;;;;;;;;;;;
+;; Question 4 ;;
+;;;;;;;;;;;;;;;;
+
+; Signature:
+; Type:
+; Purpose:
+; Pre-conditions:
+; Tests:
+(define iter-tree
+  (lambda (tree iter)
+    'not-implemented
+    ))
+
+; Signature:
+; Type:
+; Purpose:
+; Pre-conditions:
+; Tests:
+(define pre-iter
+  (lambda (tree)
+    'not-implemented
+    ))
+
+; Signature:
+; Type:
+; Purpose:
+; Pre-conditions:
+; Tests:
+(define in-iter
+  (lambda (tree)
+    'not-implemented
+    ))
