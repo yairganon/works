@@ -46,7 +46,7 @@
   (lambda (fun-list x)
     (compose-helper (reverse fun-list) x)
     ))
-; Signature: compose(fun-list , x)
+; Signature: compose-helper(fun-list , x)
 ; Type: [List -> Number]
 ; Purpose: Applying the composition of all the functions on x
 ; Pre-conditions: fun-list is list of functions ,where each function accepts one parameter
